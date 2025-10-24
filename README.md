@@ -1,4 +1,4 @@
-# # 🏗️ Data Analytic-Based Bidding Land Price Prediction System
+# 🏗️ Data Analytic-Based Bidding Land Price Prediction System
 
 ## 📘 Overview
 The **Data Analytic–Based Bidding Land Price Prediction System** leverages the power of **data analytics and machine learning** to predict optimal land bidding prices based on historical and regional market data.  
